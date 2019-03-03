@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0f76b11-9252-4aa7-95b9-4acc74ee26cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ClientPython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZYClientMain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/zy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocketPython/zysocket/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocketPython/zysocket/socket_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SocketPython/.idea/SocketPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SocketPython/.idea/SocketPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SocketPython/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SocketPython/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SocketPython/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SocketPython/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SocketPython/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SocketPython/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SocketPython/SocketMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SocketPython/SocketMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SocketPython/zyutils/date_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SocketPython/zyutils/date_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SocketPython/zyutils/zysocket.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SocketPython/zyutils/zysocket.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZYClientMain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utils/zy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/utils/ZYSocketSend.py" />
+        <option value="$PROJECT_DIR$/ZYClientMain.py" />
+        <option value="$PROJECT_DIR$/utils/zy.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="497" />
+    <option name="y" value="39" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ClientPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClientPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClientPython" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ZYClientMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ClientPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZYClientMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ZYClientMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="497" y="39" width="1386" height="788" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24925816" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36163983" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="527" column="8" selection-start-line="527" selection-start-column="8" selection-end-line="527" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python37/Lib/ssl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1111" column="8" selection-start-line="1111" selection-start-column="8" selection-end-line="1111" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZYClientMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/zy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

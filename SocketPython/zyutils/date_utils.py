@@ -35,7 +35,7 @@ Sec-WebSocket-Accept: %s\r\n\r\n' % token)
                     if self.errorTimes >= 10:
                         self.connection.close()
 
-                        print("ws_debug socket id=", self.username, " closed")
+                        print("ws_debug zysocket id=", self.username, " closed")
                         break
                     continue
 
@@ -106,9 +106,9 @@ Sec-WebSocket-Accept: %s\r\n\r\n' % token)
             print("Error: sendUrl unable to start thread" + str(e))
 
     def sendmessage(self, message):
-        s = socket.socket()  # 创建 socket 对象
-        host = '127.0.0.1'  # socket.gethostname() # 获取本地主机名
-        # host = socket.gethostname()
+        s = zysocket.socket()  # 创建 zysocket 对象
+        host = '127.0.0.1'  # zysocket.gethostname() # 获取本地主机名
+        # host = zysocket.gethostname()
         port = 3888  # 设置端口号
         s.connect((host, port))
         s.send(message)

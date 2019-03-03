@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 # ZY
-
 import socket
+
+import zysocket
 import threading
 
 from zyutils.date_utils import ZYDateThread
@@ -13,12 +14,12 @@ class LongServerThread(threading.Thread):
         self.port = port
 
     def run(self):
-        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-        # sock.bind((socket.gethostname(), self.port))
+        sock = socket.socket(zysocket.AF_INET, zysocket.SOCK_STREAM)
+        sock.setsockopt(zysocket.SOL_SOCKET, zysocket.SO_REUSEADDR, 1)
+        # sock.bind((zysocket.gethostname(), self.port))
         sock.bind(('0.0.0.0', self.port))
         sock.listen(5)
-        print('socket server started!')
+        print('zysocket server started!')
 
         while True:
             print('waiting...')
@@ -30,5 +31,5 @@ class LongServerThread(threading.Thread):
                 thread.start()  # 运行新启的client线程里的run()方法
                 # clients[username] = connection
                 print(username)
-            except socket.timeout:
+            except zysocket.timeout:
                 print('websocket connection timeout!')
