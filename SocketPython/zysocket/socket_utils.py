@@ -13,14 +13,19 @@ class ZYSocketDateThread(threading.Thread):
 
     def run(self):
         data = self.connection.recv(1024)
-        print(type(data), data)
+        self.parse_headers(data)
 
-        values = "200"
-        ss = bytes(values.encode('utf-8'))
-        count = self.connection.send(ss)
-        print(count)
+
+        self.connection.send("200")
         self.connection.close()
         pass
+
+    def parse_headers(self, data):
+        print(type(data), data)
+        print str(data)
+
+
+
 
 
 class ZYSocketThread(threading.Thread):
